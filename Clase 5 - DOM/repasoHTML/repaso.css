@@ -1,0 +1,21 @@
+h1{
+    color: blueviolet;
+}
+
+h2{
+    color: aquamarine;
+}
+
+h2{
+    color: blue;
+}
+
+/* Con el . indicamos que es una clase */
+.encabezado{
+    color: brown;
+}
+
+/* Con el # indicamos que es una clase */
+#encabezado3{
+    color: chartreuse;
+}
